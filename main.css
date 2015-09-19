@@ -107,6 +107,7 @@ html, body {
 
 .brand {
 	margin-bottom: 12px;
+	display: block;
 }
 
 .brand__logo {
