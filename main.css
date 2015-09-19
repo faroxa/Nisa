@@ -1,0 +1,157 @@
+@charset "utf-8";
+
+/* 
+	http://nisa.ir/
+	http://faroxa.com/
+*/
+
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+
+// WebFonts
+/* فونت های ایران یک نرم افزٌار مالکیتی محسوب می شود جهت آٍگاهی ازٌ قوانین استفاده ازٌ این فونت‌ها لطفاً به  وبسایت www.fontiran.com مراجعه نمایید
+** این مجموعه فونت تحت اجازٌه نامه (CR4Y8) در این پروژه استفاده می شود */
+
+@font-face {
+	font-family: 'IRANSans-web';
+        src: url('./font/IRANSans-Light-web.eot');
+ 
+	src: url('./font/IRANSans-Light-web.eot?#iefix') format('eot'),  /* IE6–8 */
+url('./font/IRANSans-Light-web.woff2') format('woff2'),  /* Chrome36+, Opera24+*/
+url('./font/IRANSans-Light-web.woff') format('woff'),  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+url('./font/IRANSans-Light-web.ttf') format('ttf');  
+	font-weight: 300;
+}
+
+
+@font-face {
+	font-family: 'IRANSans-web';
+        src: url('./font/IRANSans-web.eot');
+ 
+	src: url('./font/IRANSans-web.eot?#iefix') format('eot'),  /* IE6–8 */
+url('./font/IRANSans-web.woff2') format('woff2'),  /* Chrome36+, Opera24+*/
+url('./font/IRANSans-web.woff') format('woff'),  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+url('./font/IRANSans-web.ttf') format('ttf');  
+	font-weight: normal;
+}
+
+
+
+
+html, body {
+	margin: 0;
+	padding: 0;
+	direction: rtl;
+	font-family: 'IRANSans-web';
+	font-size: 12px;
+	text-align: center;
+	background: white;
+	position: relative;
+	height: 100%;
+}
+
+.wrapper {
+	position: absolute;
+	top: 50%;
+	right: 0;
+	width: 100%;
+	margin-top: -132px;
+}
+
+.brand {
+	margin-bottom: 12px;
+}
+
+.brand__logo {
+	display: inline-block;
+	margin-left: 5px;
+	vertical-align: middle;
+}
+
+.brand__title {
+	display: inline-block;
+	font-size: 30px;
+	vertical-align: middle;
+	color: #F44336;
+}
+
+.description {
+	font-weight: 300;
+	margin-bottom: 20px;
+}
+
+
+.line {
+	background: #585858;
+	padding: 40px 0;
+	font-size: 16px;
+	color: white;
+	font-weight: 200;
+}
+
+
+.faroxa {
+	position: absolute;
+	bottom: 20px;
+	right: 0;
+	width: 100%;
+	text-align: center;
+}
+
+a {
+	text-decoration: none;
+	color: #ccc;
+	font-weight: 200;
+}
+a:hover {
+	color: #F44336;
+}
+
+
