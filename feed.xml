@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>نیسا</title>
+    <description>نیسا یک گالری است که به معرفی وبسایت‌ها و اپلیکیشن‌های موبایل با درجه کیفی مناسب و بالا می‌پردازد. نیسا محلی برای مسابقه و قضاوت نیست، بلکه هدف آن گسترش سطح کیفی و معرفی طرح‌های فارسی برای علاقمندان است.</description>
+    <link>http://nisa.ir/</link>
+    <atom:link href="http://nisa.ir/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 10 Oct 2015 02:28:12 +0330</pubDate>
+    <lastBuildDate>Sat, 10 Oct 2015 02:28:12 +0330</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>وبسایت بیپ تونز</title>
+        <description>&lt;p&gt;بیپ تونز به عنوان اولین مرجع دانلود آهنگ و موسیقی، با همکاری و مشارکت صاحبان آثار اقدام به جمع آوری کامل ترین آرشیو آهنگ و موسیقی در ایران نموده است. 
+آهنگ های موجود در بیپ تونز با بهترین کیفیت و مناسب ترین قیمت هستند و در عین حال طبق قراردادهای مُدون کلیه حقوق مادی و معنوی صاحبان آثار محفوظ است. 
+در موارد زیر می توان بیان کرد:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;آرشیو کامل آهنگ برای انواع آهنگ و موسیقی&lt;/li&gt;
+  &lt;li&gt;در دسترس قرار دادن آهنگ های جدید در کمترین زمان ممکن برای همگان&lt;/li&gt;
+  &lt;li&gt;فرهنگ سازی به منظور رعایت حقوق معنوی پدیدآورندگان انواع آهنگ و موسیقی&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;dl&gt;
+    &lt;dt&gt;آدرس وبسایت&lt;/dt&gt;
+    &lt;dd&gt;&lt;a href=&quot;http://beeptunes.com&quot;&gt;beeptunes.com&lt;/a&gt;&lt;/dd&gt;
+
+    &lt;dt&gt;تکنولوژی‌های استفاده شده&lt;/dt&gt;
+    &lt;dd&gt;
+        HTML5, CSS3, LESS, Twitter Bootstrap, jQuery, Underscore, Grunt
+    &lt;/dd&gt;
+    
+    &lt;dt&gt;تطبیق پذیری&lt;/dt&gt;
+    &lt;dd class=&quot;single__meta--iconed&quot;&gt;
+        &lt;i class=&quot;icon-mobile&quot;&gt;&lt;/i&gt;
+        &lt;i class=&quot;icon-tablet&quot;&gt;&lt;/i&gt;
+        &lt;i class=&quot;icon-display&quot;&gt;&lt;/i&gt;
+    &lt;/dd&gt;
+
+    &lt;dt&gt;معرف و طراح&lt;/dt&gt;
+    &lt;dd&gt;&lt;a href=&quot;http://oddrun.ir/&quot;&gt;آدران&lt;/a&gt;&lt;/dd&gt;
+
+&lt;/dl&gt;
+
+&lt;p&gt;&lt;img src=&quot;/asset/website/beeptunes/beeptunes-home.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/asset/website/beeptunes/beeptunes-2.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/asset/website/beeptunes/beeptunes-album-page.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/asset/website/beeptunes/beeptunes-single.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/asset/website/beeptunes/beeptunes-explore.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/asset/website/beeptunes/beeptunes-artist-page.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 10 Oct 2015 00:00:00 +0330</pubDate>
+        <link>http://nisa.ir/website/beeptunes</link>
+        <guid isPermaLink="true">http://nisa.ir/website/beeptunes</guid>
+        
+        
+        <category>website</category>
+        
+      </item>
+    
+      <item>
+        <title>اپلیکیشن مترو تهران</title>
+        <description>&lt;p&gt;اپلیکیشن متروتهران مسیریابی در خطوط متروی تهران، اطلاع‌یابی از امکانات هر ایستگاه، مکان‌یابی مراکز شهری مجاور و مسیریابی خطوط تاکسی و اتوبوس منتهی به مترو را آسان و آفلاین میسر می‌کند.&lt;/p&gt;
+
+&lt;p&gt;مهمترین امکانات موجود در اپلیکیشن به شرح زیر است:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;نمایش نقشه تصویری و باز طراحی شده مترو بر اساس ایستگاه‌های کنونی&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;امکان شناسایی خودکار نزدیک‌ترین ایستگاه مترو به عنوان مبدا و نمایش نقطه تعویض خط مترو برای ادامه دادن مسیر تا مقصد&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;ارائه فهرست کلیه ایستگاه‌های مترو به همراه آدرس و امکانات داخلی آنها، شامل:
+«سرویس بهداشتی، پارکینگ، مینی سوپر، اغذیه سرد، روزنامه همشهری، غرفه عطریات، کافی شاپ، کافی نت، فروشگاه موبایل، خدمات ایرانسل، مرکز خرید، خودپرداز بانک سامان، خودپرداز بانک پارسیان، خودپرداز بانک تجارت، خودپرداز بانک اقتصادنوین، خودپرداز بانک کشاورزی، خودپرداز بانک سرمایه، خودپرداز بانک دی و خودپرداز بانک سینا»&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;نمایش برنامه زمانی حرکت قطارها به صورت جداگانه برای روزهای «شنبه تا چهارشنبه»، «پنجشنبه» و «جمعه و روزهای تعطیل سال» و نمایش قطارهای سریع السیر تهران-کرج باعلامت مخصوص&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;نمایش اطلاعات مربوط به مراکز شهری مجاور هر ایستگاه، شامل:
+«ورزشی، شهرک مسکونی، مذهبی، قضایی، فرهنگی، علمی و تفریحی، علمی، صنعتی، سیاسی، تفریحی، تجاری، پزشکی، نظامی، اقتصادی، اداری، تاریخی، رفاهی، خدماتی، رفاهی و خدماتی»&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;امکان شناسایی مکانی نزدیک‌ترین ایستگاه مترو به مرکز شهری مورد نظر شما برای پیاده شدن در ایستگاه صحیح&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;نمایش مسیر تاکسی‌ها از درب هر ایستگاه به مقصدهای مختلف و نیز نمایش اطلاعات خطوط اتوبوس‌رانی و مسیرهای رفت و برگشت آنها&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;نمایش مسیرها وایستگاه‌های مترو بر روی نقشه با اتصال به اینترنت&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;dl&gt;
+
+    &lt;dt&gt;طراح و توسعه دهنده&lt;/dt&gt;
+    &lt;dd&gt;&lt;a href=&quot;http://fardad.co/&quot;&gt;شرکت راهکارهای همراه فرداد&lt;/a&gt;&lt;/dd&gt;
+
+    &lt;dt&gt;آدرس وبسایت&lt;/dt&gt;
+    &lt;dd&gt;&lt;a href=&quot;&quot;&gt;&lt;/a&gt;&lt;/dd&gt;
+
+    &lt;dt&gt;پلتفرم&lt;/dt&gt;
+    &lt;dd&gt;Android, iOS&lt;/dd&gt;
+
+    &lt;dt&gt;دریافت اپلیکیشن&lt;/dt&gt;
+	&lt;dd&gt;
+        &lt;a href=&quot;https://cafebazaar.ir/app/co.fardad.android.metro/?l=fa&quot;&gt;کافه بازار&lt;/a&gt; /
+        &lt;a href=&quot;https://play.google.com/store/apps/details?id=co.fardad.android.metro&amp;amp;hl=en&quot;&gt;Google Play&lt;/a&gt; /
+        &lt;a href=&quot;https://itunes.apple.com/us/app/tehran-metro-by-fardad-co/id950321554?mt=8&quot;&gt;AppStore&lt;/a&gt;
+    &lt;/dd&gt;
+
+    &lt;dt&gt;تعداد کاربران فعال&lt;/dt&gt;
+    &lt;dd&gt;۳۵۰ هزار نفر (بر اساس آمار گوگل آنالیتیک)&lt;/dd&gt;
+
+    &lt;dt&gt;در رسانه‌ها&lt;/dt&gt;
+    &lt;dd&gt;
+        &lt;a href=&quot;http://digiato.com/article/2015/01/18/%D9%85%D8%B3%DB%8C%D8%B1%DB%8C%D8%A7%D8%A8%DB%8C-%D8%A2%D8%B3%D8%A7%D9%86-%D8%AF%D8%B1-%D8%A7%DB%8C%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D9%87%D8%A7%DB%8C-%D9%85%D8%AA%D8%B1%D9%88-%D8%A8%D8%A7-%D8%A7%D9%BE/&quot;&gt;دیجیاتو&lt;/a&gt; / 
+        &lt;a href=&quot;http://www.yjc.ir/fa/news/5116917/%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF-%DA%A9%D9%86%DB%8C%D8%AF-%D9%85%D8%B3%DB%8C%D8%B1%DB%8C%D8%A7%D8%A8%DB%8C-%D8%AF%D8%B1-%D8%A7%DB%8C%D8%B3%D8%AA%DA%AF%D8%A7%D9%87%E2%80%8C%D9%87%D8%A7%DB%8C-%D9%85%D8%AA%D8%B1%D9%88-%D8%A8%D8%A7-%D8%A7%D9%BE%D9%84%DB%8C%DA%A9%DB%8C%D8%B4%D9%86-%D9%85%D8%AA%D8%B1%D9%88-%D8%AA%D9%87%D8%B1%D8%A7%D9%86&quot;&gt;باشگاه خبرنگاران جوان&lt;/a&gt; / 
+        &lt;a href=&quot;http://www.mehrnews.com/news/2528577/%D8%A7%D9%BE%D9%84%DB%8C%DA%A9%DB%8C%D8%B4%D9%86-%D9%85%D8%AA%D8%B1%D9%88-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A2%DB%8C%D9%81%D9%88%D9%86%DB%8C-%D9%87%D8%A7-%D9%85%D8%B3%DB%8C%D8%B1%DB%8C%D8%A7%D8%A8%DB%8C-%D8%A7%DB%8C%D8%B3%D8%AA%DA%AF%D8%A7%D9%87%D9%87%D8%A7-%D8%A8%D8%A7-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84&quot;&gt;خبرگزاری مهر&lt;/a&gt; / 
+        &lt;a href=&quot;http://www.zoomit.ir/software/16974-zoomapp-tehran-metro&quot;&gt;زومیت&lt;/a&gt; / 
+        &lt;a href=&quot;http://www.asriran.com/fa/news/405350/%D9%85%D8%B3%DB%8C%D8%B1%E2%80%8C%DB%8C%D8%A7%D8%A8%DB%8C-%D8%AF%D8%B1-%D8%B4%D9%87%D8%B1-%D8%B2%DB%8C%D8%B1%D8%B2%D9%85%DB%8C%D9%86%DB%8C-%D8%A8%D8%A7-%D8%A7%D9%BE%D9%84%DB%8C%DA%A9%DB%8C%D8%B4%D9%86-%D9%85%D8%AA%D8%B1%D9%88%DB%8C-%D8%AA%D9%87%D8%B1%D8%A7%D9%86&quot;&gt;عصر ایران&lt;/a&gt; / 
+        &lt;a href=&quot;http://www.farsnews.com/newstext.php?nn=13940420000469&quot;&gt;خبرگزاری فارس&lt;/a&gt; / 
+        &lt;a href=&quot;http://farnet.ir/1393/10/90806/fardad_metro_app/&quot;&gt;فارنت&lt;/a&gt; / 
+        &lt;a href=&quot;http://www.donya-e-eqtesad.com/news/898509/&quot;&gt;روزنامه دنیای اقتصاد&lt;/a&gt;
+    &lt;/dd&gt;
+
+
+&lt;/dl&gt;
+
+&lt;div class=&quot;row app-gallery&quot;&gt;
+    &lt;div class=&quot;app-gallery__item&quot;&gt;
+        &lt;a href=&quot;/asset/app/tehranmetro/tehranmetro-1-home.jpg&quot;&gt;
+            &lt;img src=&quot;/asset/app/tehranmetro/tehranmetro-1-home.jpg&quot; alt=&quot;&quot; /&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;app-gallery__item&quot;&gt;
+        &lt;a href=&quot;/asset/app/tehranmetro/tehranmetro-2.jpg&quot;&gt;
+            &lt;img src=&quot;/asset/app/tehranmetro/tehranmetro-2.jpg&quot; alt=&quot;&quot; /&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;app-gallery__item&quot;&gt;
+        &lt;a href=&quot;/asset/app/tehranmetro/tehranmetro-3.jpg&quot;&gt;
+            &lt;img src=&quot;/asset/app/tehranmetro/tehranmetro-3.jpg&quot; alt=&quot;&quot; /&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;app-gallery__item&quot;&gt;
+        &lt;a href=&quot;/asset/app/tehranmetro/tehranmetro-4.jpg&quot;&gt;
+            &lt;img src=&quot;/asset/app/tehranmetro/tehranmetro-4.jpg&quot; alt=&quot;&quot; /&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;app-gallery__item&quot;&gt;
+        &lt;a href=&quot;/asset/app/tehranmetro/tehranmetro-5.jpg&quot;&gt;
+            &lt;img src=&quot;/asset/app/tehranmetro/tehranmetro-5.jpg&quot; alt=&quot;&quot; /&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+</description>
+        <pubDate>Fri, 09 Oct 2015 00:00:00 +0330</pubDate>
+        <link>http://nisa.ir/app/tehranmetro</link>
+        <guid isPermaLink="true">http://nisa.ir/app/tehranmetro</guid>
+        
+        
+        <category>app</category>
+        
+      </item>
+    
+      <item>
+        <title>وبسایت چالش نوآوری توسن</title>
+        <description>&lt;p&gt;اولین دوره ماراتن برنامه‌نویسی بر پایه‌ی سرویس‌های بانکی با دسترسی کامل به سرویس‌های بانکداری الکترونیک&lt;/p&gt;
+
+&lt;dl&gt;
+    &lt;dt&gt;آدرس وبسایت&lt;/dt&gt;
+    &lt;dd&gt;&lt;a href=&quot;http://tosanboom.ir&quot;&gt;Tosanboom.ir&lt;/a&gt;&lt;/dd&gt;
+    
+    &lt;dt&gt;تطبیق پذیری&lt;/dt&gt;
+    &lt;dd class=&quot;single__meta--iconed&quot;&gt;
+        &lt;i class=&quot;icon-mobile&quot;&gt;&lt;/i&gt;
+        &lt;i class=&quot;icon-tablet&quot;&gt;&lt;/i&gt;
+        &lt;i class=&quot;icon-display&quot;&gt;&lt;/i&gt;
+    &lt;/dd&gt;
+
+&lt;/dl&gt;
+
+&lt;p&gt;&lt;img src=&quot;/asset/website/tosanboom/tosanboom-screenshot.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 08 Oct 2015 00:00:00 +0330</pubDate>
+        <link>http://nisa.ir/website/tosanboom</link>
+        <guid isPermaLink="true">http://nisa.ir/website/tosanboom</guid>
+        
+        
+        <category>website</category>
+        
+      </item>
+    
+      <item>
+        <title>اپلیکیشن نزدیکا</title>
+        <description>&lt;p&gt;اپلیکیشن شبکه اجتماعی مبتنی بر موقعیت مکانی&lt;/p&gt;
+
+&lt;dl&gt;
+    &lt;dt&gt;آدرس وبسایت&lt;/dt&gt;
+    &lt;dd&gt;&lt;a href=&quot;http://nazdika.com&quot;&gt;Nazdika.com&lt;/a&gt;&lt;/dd&gt;
+
+    &lt;dt&gt;پلتفرم&lt;/dt&gt;
+    &lt;dd&gt;Android&lt;/dd&gt;
+
+    &lt;dt&gt;دریافت اپلیکیشن&lt;/dt&gt;
+	&lt;dd&gt;&lt;a href=&quot;http://nazdika.com&quot;&gt;Nazdika.com&lt;/a&gt;&lt;/dd&gt;
+
+    &lt;dt&gt;معرف و طراح&lt;/dt&gt;
+    &lt;dd&gt;&lt;a href=&quot;http://oddrun.ir/&quot;&gt;آدران&lt;/a&gt;&lt;/dd&gt;
+
+&lt;/dl&gt;
+
+&lt;div class=&quot;row app-gallery&quot;&gt;
+    &lt;div class=&quot;app-gallery__item&quot;&gt;
+        &lt;a href=&quot;/asset/app/nazdika/nazdika-home.jpg&quot;&gt;
+            &lt;img src=&quot;/asset/app/nazdika/nazdika-home.jpg&quot; alt=&quot;&quot; /&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;app-gallery__item&quot;&gt;
+        &lt;a href=&quot;/asset/app/nazdika/nazdika-browse-venues.jpg&quot;&gt;
+            &lt;img src=&quot;/asset/app/nazdika/nazdika-browse-venues.jpg&quot; alt=&quot;&quot; /&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;app-gallery__item&quot;&gt;
+        &lt;a href=&quot;/asset/app/nazdika/nazdika-channels-feed.jpg&quot;&gt;
+            &lt;img src=&quot;/asset/app/nazdika/nazdika-channels-feed.jpg&quot; alt=&quot;&quot; /&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;app-gallery__item&quot;&gt;
+        &lt;a href=&quot;/asset/app/nazdika/nazdika-fanoos.jpg&quot;&gt;
+            &lt;img src=&quot;/asset/app/nazdika/nazdika-fanoos.jpg&quot; alt=&quot;&quot; /&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;app-gallery__item&quot;&gt;
+        &lt;a href=&quot;/asset/app/nazdika/nazdika-nearby-feed.jpg&quot;&gt;
+            &lt;img src=&quot;/asset/app/nazdika/nazdika-nearby-feed.jpg&quot; alt=&quot;&quot; /&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;app-gallery__item&quot;&gt;
+        &lt;a href=&quot;/asset/app/nazdika/nazdika-photo-preview.jpg&quot;&gt;
+            &lt;img src=&quot;/asset/app/nazdika/nazdika-photo-preview.jpg&quot; alt=&quot;&quot; /&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;app-gallery__item&quot;&gt;
+        &lt;a href=&quot;/asset/app/nazdika/nazdika-post-send-channels.jpg&quot;&gt;
+            &lt;img src=&quot;/asset/app/nazdika/nazdika-photo-preview.jpg&quot; alt=&quot;&quot; /&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;app-gallery__item&quot;&gt;
+        &lt;a href=&quot;/asset/app/nazdika/nazdika-post-send.jpg&quot;&gt;
+            &lt;img src=&quot;/asset/app/nazdika/nazdika-post-send.jpg&quot; alt=&quot;&quot; /&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;app-gallery__item&quot;&gt;
+        &lt;a href=&quot;/asset/app/nazdika/nazdika-post.jpg&quot;&gt;
+            &lt;img src=&quot;/asset/app/nazdika/nazdika-post.jpg&quot; alt=&quot;&quot; /&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;app-gallery__item&quot;&gt;
+        &lt;a href=&quot;/asset/app/nazdika/nazdika-profile.jpg&quot;&gt;
+            &lt;img src=&quot;/asset/app/nazdika/nazdika-profile.jpg&quot; alt=&quot;&quot; /&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;app-gallery__item&quot;&gt;
+        &lt;a href=&quot;/asset/app/nazdika/nazdika-settings.jpg&quot;&gt;
+            &lt;img src=&quot;/asset/app/nazdika/nazdika-settings.jpg&quot; alt=&quot;&quot; /&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+</description>
+        <pubDate>Thu, 08 Oct 2015 00:00:00 +0330</pubDate>
+        <link>http://nisa.ir/app/nazdika</link>
+        <guid isPermaLink="true">http://nisa.ir/app/nazdika</guid>
+        
+        
+        <category>app</category>
+        
+      </item>
+    
+      <item>
+        <title>وبسایت فروش بلیط «تیکت»</title>
+        <description>&lt;p&gt;تیکت تیمی است متشکل از متخصصان و کارشناسان در حوزه تجارت الکترونیک، مدیریت و فناوری اطلاعات که با استفاده از روش‌های نوین تجارت الکترونیک و تمرکز بر رویدادهای فرهنگی و هنری، مخاطبان و علاقه‌مندان را از رویدادهای جدید آگاه می‌سازد. تیکت امکان خرید آنلاین بلیط را بدون صرف هیچ هزینه‌ای، سریع و آسان  فراهم نموده‌است.&lt;/p&gt;
+
+&lt;dl&gt;
+
+    &lt;dt&gt;صاحب امتیاز&lt;/dt&gt;
+    &lt;dd&gt;شرکت کسب و کار نوین ایرانیان&lt;/dd&gt;
+
+    &lt;dt&gt;آدرس وبسایت&lt;/dt&gt;
+    &lt;dd&gt;&lt;a href=&quot;http://tik8.com&quot;&gt;tik8.com&lt;/a&gt;&lt;/dd&gt;
+
+    &lt;dt&gt;تطبیق پذیری&lt;/dt&gt;
+    &lt;dd class=&quot;single__meta--iconed&quot;&gt;
+        &lt;i class=&quot;icon-display&quot;&gt;&lt;/i&gt;
+    &lt;/dd&gt;
+
+    &lt;dt&gt;تکنولوژی‌های استفاده شده&lt;/dt&gt;
+    &lt;dd&gt;
+        Jade, Sass, HTML5, CSS3, JQuery, Gulp 
+    &lt;/dd&gt;
+
+&lt;/dl&gt;
+
+&lt;p&gt;&lt;img src=&quot;/asset/website/tik8/tik8-home.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/asset/website/tik8/tik8-login.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/asset/website/tik8/tik8-single.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/asset/website/tik8/tik8-artist.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/asset/website/tik8/tik8-archives.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 07 Oct 2015 00:00:00 +0330</pubDate>
+        <link>http://nisa.ir/website/tik8</link>
+        <guid isPermaLink="true">http://nisa.ir/website/tik8</guid>
+        
+        
+        <category>website</category>
+        
+      </item>
+    
+      <item>
+        <title>وبسایت جملک</title>
+        <description>&lt;p&gt;وب سایت اپلیکیشن مجبوب شبکه اجتماعی جملک&lt;/p&gt;
+
+&lt;dl&gt;
+    &lt;dt&gt;آدرس وبسایت&lt;/dt&gt;
+    &lt;dd&gt;&lt;a href=&quot;http://jomlak.com&quot;&gt;Jomlak.com&lt;/a&gt;&lt;/dd&gt;
+
+    &lt;dt&gt;تکنولوژی‌های استفاده شده&lt;/dt&gt;
+    &lt;dd&gt;
+        HTML5, CSS3, LESS, Twitter Bootstrap, Angular JS, Underscore, Grunt
+    &lt;/dd&gt;
+
+    &lt;dt&gt;تطبیق پذیری&lt;/dt&gt;
+    &lt;dd class=&quot;single__meta--iconed&quot;&gt;
+        &lt;i class=&quot;icon-mobile&quot;&gt;&lt;/i&gt;
+        &lt;i class=&quot;icon-tablet&quot;&gt;&lt;/i&gt;
+        &lt;i class=&quot;icon-display&quot;&gt;&lt;/i&gt;
+    &lt;/dd&gt;
+
+    &lt;dt&gt;معرف و طراح&lt;/dt&gt;
+    &lt;dd&gt;&lt;a href=&quot;http://oddrun.ir/&quot;&gt;آدران&lt;/a&gt;&lt;/dd&gt;
+
+&lt;/dl&gt;
+
+&lt;p&gt;&lt;img src=&quot;/asset/website/jomlak/jomlak-home.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/asset/website/jomlak/jomkal-comments.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/asset/website/jomlak/jomlak-notifications.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/asset/website/jomlak/jomlak-profile.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/asset/website/jomlak/jomlak-search.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/asset/website/jomlak/jomlak-send-jomlak.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/asset/website/jomlak/jomlak-setting.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/asset/website/jomlak/jomlak-thumbnail.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 06 Oct 2015 00:00:00 +0330</pubDate>
+        <link>http://nisa.ir/website/jomlak</link>
+        <guid isPermaLink="true">http://nisa.ir/website/jomlak</guid>
+        
+        
+        <category>website</category>
+        
+      </item>
+    
+  </channel>
+</rss>
