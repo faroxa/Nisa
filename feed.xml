@@ -5,9 +5,43 @@
     <description>نیسا یک گالری است که به معرفی وبسایت‌ها و اپلیکیشن‌های موبایل با درجه کیفی مناسب و بالا می‌پردازد. نیسا محلی برای مسابقه و قضاوت نیست، بلکه هدف آن گسترش سطح کیفی و معرفی طرح‌های فارسی برای علاقمندان است.</description>
     <link>http://nisa.ir/</link>
     <atom:link href="http://nisa.ir/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 05 Nov 2015 19:42:45 +0330</pubDate>
-    <lastBuildDate>Thu, 05 Nov 2015 19:42:45 +0330</lastBuildDate>
+    <pubDate>Fri, 29 Jan 2016 11:19:35 +0330</pubDate>
+    <lastBuildDate>Fri, 29 Jan 2016 11:19:35 +0330</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>وبسایت mielekitchenart.ir</title>
+        <description>&lt;dl&gt;
+    &lt;dt&gt;آدرس وبسایت&lt;/dt&gt;
+    &lt;dd&gt;&lt;a href=&quot;http://mielekitchenart.ir&quot;&gt;mielekitchenart.ir&lt;/a&gt;&lt;/dd&gt;
+
+    &lt;dt&gt;تکنولوژی‌های استفاده شده&lt;/dt&gt;
+    &lt;dd&gt;
+        HTML5, CSS3, Twitter Bootstrap, jQuery
+    &lt;/dd&gt;
+
+    &lt;dt&gt;تطبیق پذیری&lt;/dt&gt;
+    &lt;dd class=&quot;single__meta--iconed&quot;&gt;
+        &lt;i class=&quot;icon-mobile&quot;&gt;&lt;/i&gt;
+        &lt;i class=&quot;icon-tablet&quot;&gt;&lt;/i&gt;
+        &lt;i class=&quot;icon-display&quot;&gt;&lt;/i&gt;
+    &lt;/dd&gt;
+
+    &lt;dt&gt;مجری&lt;/dt&gt;
+    &lt;dd&gt;محسن براتی&lt;/dd&gt;
+
+&lt;/dl&gt;
+
+&lt;p&gt;&lt;img src=&quot;/asset/website/miele/miele-home.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 29 Jan 2016 00:00:00 +0330</pubDate>
+        <link>http://nisa.ir/website/mielekitchenart</link>
+        <guid isPermaLink="true">http://nisa.ir/website/mielekitchenart</guid>
+        
+        
+        <category>website</category>
+        
+      </item>
     
       <item>
         <title>وبسایت بیپ تونز</title>

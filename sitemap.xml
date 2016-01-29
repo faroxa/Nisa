@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://nisa.ir/website/mielekitchenart</loc>
+    <lastmod>2016-01-29T00:00:00+03:30</lastmod>
+  </url>
+  <url>
     <loc>http://nisa.ir/website/beeptunes</loc>
     <lastmod>2015-10-10T00:00:00+03:30</lastmod>
   </url>
